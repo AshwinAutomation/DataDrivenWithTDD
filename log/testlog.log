@@ -1,0 +1,1220 @@
+2019-11-13 20:40:54,466 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-13 20:40:54,471 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardWebserivces3.xlsx
+2019-11-13 20:40:54,471 - org.mortbay.log -INFO - xlsheet :MultipleuserMultipleAccess_ADD
+2019-11-13 20:40:55,492 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-13 20:40:55,493 - org.mortbay.log -INFO - browserName :firefox
+2019-11-13 20:40:57,675 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-13 20:40:57,727 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-13 20:41:08,819 - org.mortbay.log -INFO - url passed successfully :
+2019-11-13 20:41:14,312 - TestBase -INFO - Browser Lunch successfully and URL Passed
+2019-11-13 20:41:15,170 - TestBase -INFO - Authentication for :DP0881
+2019-11-13 20:41:49,387 - TestBase -INFO - Logged-in successfully
+2019-11-14 16:13:05,083 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-14 16:13:05,089 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardWebserivces3.xlsx
+2019-11-14 16:13:05,090 - org.mortbay.log -INFO - xlsheet :MultipleuserMultipleAccess_ADD
+2019-11-14 16:13:06,633 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-14 16:13:06,634 - org.mortbay.log -INFO - browserName :firefox
+2019-11-14 16:13:09,468 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-14 16:13:09,522 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-14 16:13:24,121 - org.mortbay.log -INFO - url passed successfully :
+2019-11-14 16:13:29,391 - TestBase -INFO - Browser Lunch successfully and URL Passed
+2019-11-14 16:13:30,064 - TestBase -INFO - Authentication for :DP0881
+2019-11-14 16:14:14,249 - TestBase -INFO - Logged-in successfully
+2019-11-14 16:21:32,721 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-14 16:21:32,725 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardWebserivces3.xlsx
+2019-11-14 16:21:32,725 - org.mortbay.log -INFO - xlsheet :MultipleuserMultipleAccess_ADD
+2019-11-14 16:21:34,212 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-14 16:21:34,213 - org.mortbay.log -INFO - browserName :firefox
+2019-11-14 16:21:36,049 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-14 16:21:36,090 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-14 16:21:49,886 - org.mortbay.log -INFO - url passed successfully :
+2019-11-14 16:21:55,249 - TestBase -INFO - Browser Lunch successfully and URL Passed
+2019-11-14 16:21:55,896 - TestBase -INFO - Authentication for :DP0881
+2019-11-14 16:23:05,194 - TestBase -INFO - Logged-in successfully
+2019-11-14 16:28:33,740 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-14 16:28:33,745 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardWebserivces3.xlsx
+2019-11-14 16:28:33,745 - org.mortbay.log -INFO - xlsheet :MultipleuserMultipleAccess_ADD
+2019-11-14 16:28:34,803 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-14 16:28:34,803 - org.mortbay.log -INFO - browserName :firefox
+2019-11-14 16:28:36,130 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-14 16:28:36,168 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-14 16:28:55,298 - org.mortbay.log -INFO - url passed successfully :
+2019-11-14 16:29:00,579 - TestBase -INFO - Browser Lunch successfully and URL Passed
+2019-11-14 16:29:01,087 - TestBase -INFO - Authentication for :DP0881
+2019-11-14 16:30:03,443 - TestBase -INFO - Logged-in successfully
+2019-11-14 18:16:12,517 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-14 18:16:12,533 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardWebserivces4.xlsx
+2019-11-14 18:16:12,533 - org.mortbay.log -INFO - xlsheet :SingleuserSingleAccess_ADD
+2019-11-14 18:16:13,371 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-14 18:16:13,371 - org.mortbay.log -INFO - browserName :firefox
+2019-11-14 18:16:14,653 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-14 18:16:14,697 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-14 18:16:31,323 - org.mortbay.log -INFO - url passed successfully :
+2019-11-14 18:16:36,590 - TestBase -INFO - Browser Lunch successfully and URL Passed
+2019-11-14 18:16:36,988 - TestBase -INFO - Authentication for :DP0881
+2019-11-14 18:17:14,270 - TestBase -INFO - Logged-in successfully
+2019-11-14 18:25:53,218 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-14 18:25:53,226 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardWebserivces4.xlsx
+2019-11-14 18:25:53,226 - org.mortbay.log -INFO - xlsheet :SingleUseruserSingleAccess_ADD
+2019-11-14 18:26:35,590 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-14 18:26:35,597 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardWebserivces4.xlsx
+2019-11-14 18:26:35,597 - org.mortbay.log -INFO - xlsheet :SingleUseruserSingleAccess_ADD
+2019-11-14 18:27:51,713 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-14 18:27:51,723 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardWebserivces4.xlsx
+2019-11-14 18:27:51,723 - org.mortbay.log -INFO - xlsheet :SingleuserSingleAccess_ADD
+2019-11-14 18:27:52,582 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-14 18:27:52,582 - org.mortbay.log -INFO - browserName :firefox
+2019-11-14 18:27:53,856 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-14 18:27:53,905 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-14 18:28:07,698 - org.mortbay.log -INFO - url passed successfully :
+2019-11-14 18:28:12,954 - TestBase -INFO - Browser Lunch successfully and URL Passed
+2019-11-14 18:28:13,271 - TestBase -INFO - Authentication for :DP0881
+2019-11-14 18:28:58,940 - TestBase -INFO - Logged-in successfully
+2019-11-14 18:30:11,302 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-14 18:30:11,314 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardWebserivces4.xlsx
+2019-11-14 18:30:11,314 - org.mortbay.log -INFO - xlsheet :SingleuserSingleAccess_ADD
+2019-11-14 18:30:12,376 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-14 18:30:12,382 - org.mortbay.log -INFO - browserName :firefox
+2019-11-14 18:30:13,602 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-14 18:30:13,657 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-14 18:30:29,907 - org.mortbay.log -INFO - url passed successfully :
+2019-11-14 18:30:35,188 - TestBase -INFO - Browser Lunch successfully and URL Passed
+2019-11-14 18:30:35,488 - TestBase -INFO - Authentication for :DP0881
+2019-11-14 18:31:31,073 - TestBase -INFO - Logged-in successfully
+2019-11-14 18:34:16,629 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-14 18:34:16,634 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardWebserivces4.xlsx
+2019-11-14 18:34:16,634 - org.mortbay.log -INFO - xlsheet :SingleuserSingleAccess_ADD
+2019-11-14 18:34:17,445 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-14 18:34:17,445 - org.mortbay.log -INFO - browserName :firefox
+2019-11-14 18:34:18,758 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-14 18:34:18,799 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-14 18:34:36,454 - org.mortbay.log -INFO - url passed successfully :
+2019-11-14 18:34:41,712 - TestBase -INFO - Browser Lunch successfully and URL Passed
+2019-11-14 18:35:06,391 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-14 18:35:06,399 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardWebserivces4.xlsx
+2019-11-14 18:35:06,399 - org.mortbay.log -INFO - xlsheet :SingleuserSingleAccess_ADD
+2019-11-14 18:35:07,274 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-14 18:35:07,274 - org.mortbay.log -INFO - browserName :firefox
+2019-11-14 18:35:08,567 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-14 18:35:08,607 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-14 18:35:23,611 - org.mortbay.log -INFO - url passed successfully :
+2019-11-14 18:35:28,886 - TestBase -INFO - Browser Lunch successfully and URL Passed
+2019-11-14 18:36:00,898 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-14 18:36:00,911 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardWebserivces4.xlsx
+2019-11-14 18:36:00,911 - org.mortbay.log -INFO - xlsheet :SingleuserSingleAccess_ADD
+2019-11-14 18:36:02,129 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-14 18:36:02,138 - org.mortbay.log -INFO - browserName :firefox
+2019-11-14 18:36:03,748 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-14 18:36:03,784 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-14 18:36:19,813 - org.mortbay.log -INFO - url passed successfully :
+2019-11-14 18:36:25,098 - TestBase -INFO - Browser Lunch successfully and URL Passed
+2019-11-14 18:36:25,486 - TestBase -INFO - Authentication for :DP0881
+2019-11-14 18:38:01,333 - TestBase -INFO - Logged-in successfully
+2019-11-14 18:45:19,791 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-14 18:45:19,795 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardWebserivces4.xlsx
+2019-11-14 18:45:19,795 - org.mortbay.log -INFO - xlsheet :SingleuserSingleAccess_ADD
+2019-11-14 18:45:20,745 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-14 18:45:20,746 - org.mortbay.log -INFO - browserName :firefox
+2019-11-14 18:45:22,413 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-14 18:45:22,469 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-14 18:45:45,828 - org.mortbay.log -INFO - url passed successfully :
+2019-11-14 18:45:51,130 - TestBase -INFO - Browser Lunch successfully and URL Passed
+2019-11-14 18:45:51,580 - TestBase -INFO - Authentication for :DP0881
+2019-11-14 18:47:32,423 - TestBase -INFO - Logged-in successfully
+2019-11-14 18:50:30,597 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-14 18:50:30,602 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardWebserivces4.xlsx
+2019-11-14 18:50:30,602 - org.mortbay.log -INFO - xlsheet :SingleuserSingleAccess_ADD
+2019-11-14 18:50:31,726 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-14 18:50:31,727 - org.mortbay.log -INFO - browserName :firefox
+2019-11-14 18:50:33,055 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-14 18:50:33,094 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-14 18:50:48,483 - org.mortbay.log -INFO - url passed successfully :
+2019-11-14 18:50:53,767 - TestBase -INFO - Browser Lunch successfully and URL Passed
+2019-11-14 18:50:54,081 - TestBase -INFO - Authentication for :DP0881
+2019-11-14 18:52:25,063 - TestBase -INFO - Logged-in successfully
+2019-11-14 18:56:35,047 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-14 18:56:35,052 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardWebserivces4.xlsx
+2019-11-14 18:56:35,052 - org.mortbay.log -INFO - xlsheet :SingleuserSingleAccess_ADD
+2019-11-14 18:56:35,973 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-14 18:56:35,974 - org.mortbay.log -INFO - browserName :firefox
+2019-11-14 18:56:38,092 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-14 18:56:38,132 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-14 18:56:57,283 - org.mortbay.log -INFO - url passed successfully :
+2019-11-14 18:57:02,593 - TestBase -INFO - Browser Lunch successfully and URL Passed
+2019-11-14 18:57:03,167 - TestBase -INFO - Authentication for :DP0881
+2019-11-14 18:58:07,648 - TestBase -INFO - Logged-in successfully
+2019-11-14 19:01:44,592 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-14 19:01:44,596 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardWebserivces4.xlsx
+2019-11-14 19:01:44,596 - org.mortbay.log -INFO - xlsheet :SingleuserSingleAccess_ADD
+2019-11-14 19:01:45,643 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-14 19:01:45,644 - org.mortbay.log -INFO - browserName :firefox
+2019-11-14 19:01:47,443 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-14 19:01:47,480 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-14 19:02:01,906 - org.mortbay.log -INFO - url passed successfully :
+2019-11-14 19:02:07,173 - TestBase -INFO - Browser Lunch successfully and URL Passed
+2019-11-14 19:02:07,500 - TestBase -INFO - Authentication for :DP0881
+2019-11-14 19:03:44,086 - TestBase -INFO - Logged-in successfully
+2019-11-14 19:08:07,007 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-14 19:08:07,016 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardWebserivces4.xlsx
+2019-11-14 19:08:07,017 - org.mortbay.log -INFO - xlsheet :SingleuserSingleAccess_ADD
+2019-11-14 19:08:09,118 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-14 19:08:09,118 - org.mortbay.log -INFO - browserName :firefox
+2019-11-14 19:08:11,709 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-14 19:08:11,791 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-14 19:09:39,134 - org.mortbay.log -INFO - url passed successfully :
+2019-11-14 19:09:44,833 - TestBase -INFO - Browser Lunch successfully and URL Passed
+2019-11-14 19:09:45,741 - TestBase -INFO - Authentication for :DP0881
+2019-11-14 19:10:11,831 - TestBase -INFO - Logged-in successfully
+2019-11-14 19:14:15,891 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-14 19:14:15,896 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardWebserivces4.xlsx
+2019-11-14 19:14:15,897 - org.mortbay.log -INFO - xlsheet :SingleuserSingleAccess_ADD
+2019-11-14 19:14:17,174 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-14 19:14:17,175 - org.mortbay.log -INFO - browserName :firefox
+2019-11-14 19:14:18,983 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-14 19:14:19,078 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-14 19:14:51,457 - org.mortbay.log -INFO - url passed successfully :
+2019-11-14 19:14:56,946 - TestBase -INFO - Browser Lunch successfully and URL Passed
+2019-11-14 19:14:57,861 - TestBase -INFO - Authentication for :DP0881
+2019-11-14 19:15:24,074 - TestBase -INFO - Logged-in successfully
+2019-11-14 19:20:53,175 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-14 19:20:53,193 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardWebserivces4.xlsx
+2019-11-14 19:20:53,194 - org.mortbay.log -INFO - xlsheet :SingleuserSingleAccess_ADD
+2019-11-14 19:20:57,076 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-14 19:20:57,076 - org.mortbay.log -INFO - browserName :firefox
+2019-11-14 19:21:05,439 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-14 19:21:05,582 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-14 19:31:36,221 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-14 19:31:36,244 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardWebserivces4.xlsx
+2019-11-14 19:31:36,246 - org.mortbay.log -INFO - xlsheet :SingleuserSingleAccess_ADD
+2019-11-14 19:31:39,157 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-14 19:31:39,159 - org.mortbay.log -INFO - browserName :firefox
+2019-11-14 19:31:47,376 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-14 19:31:47,668 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-14 19:32:46,715 - org.mortbay.log -INFO - url passed successfully :
+2019-11-14 19:32:53,088 - TestBase -INFO - Browser Lunch successfully and URL Passed
+2019-11-14 19:32:54,711 - TestBase -INFO - Authentication for :DP0881
+2019-11-14 19:33:06,953 - TestBase -INFO - Login failed due to wrong password
+2019-11-14 19:34:00,199 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-14 19:34:00,227 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardWebserivces4.xlsx
+2019-11-14 19:34:00,228 - org.mortbay.log -INFO - xlsheet :SingleuserSingleAccess_ADD
+2019-11-14 19:34:02,179 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-14 19:34:02,180 - org.mortbay.log -INFO - browserName :firefox
+2019-11-14 19:34:04,666 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-14 19:34:04,769 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-14 19:34:47,466 - org.mortbay.log -INFO - url passed successfully :
+2019-11-14 19:34:53,049 - TestBase -INFO - Browser Lunch successfully and URL Passed
+2019-11-14 19:34:53,823 - TestBase -INFO - Authentication for :DP0881
+2019-11-14 19:39:11,534 - TestBase -INFO - Logged-in successfully
+2019-11-14 19:45:30,116 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-14 19:45:30,123 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardWebserivces4.xlsx
+2019-11-14 19:45:30,123 - org.mortbay.log -INFO - xlsheet :SingleuserSingleAccess_ADD
+2019-11-14 19:45:31,355 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-14 19:45:31,355 - org.mortbay.log -INFO - browserName :firefox
+2019-11-14 19:45:33,371 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-14 19:45:33,413 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-14 19:45:51,807 - org.mortbay.log -INFO - url passed successfully :
+2019-11-14 19:45:57,146 - TestBase -INFO - Browser Lunch successfully and URL Passed
+2019-11-14 19:45:57,576 - TestBase -INFO - Authentication for :DP0881
+2019-11-14 19:47:34,440 - TestBase -INFO - Logged-in successfully
+2019-11-14 19:53:01,027 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-14 19:53:01,032 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardWebserivces4.xlsx
+2019-11-14 19:53:01,033 - org.mortbay.log -INFO - xlsheet :SingleuserSingleAccess_ADD
+2019-11-14 19:53:02,092 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-14 19:53:02,092 - org.mortbay.log -INFO - browserName :firefox
+2019-11-14 19:53:04,028 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-14 19:53:04,084 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-14 19:53:25,699 - org.mortbay.log -INFO - url passed successfully :
+2019-11-14 19:53:30,919 - TestBase -INFO - Browser Lunch successfully and URL Passed
+2019-11-14 19:53:31,306 - TestBase -INFO - Authentication for :DP0881
+2019-11-14 19:55:43,004 - TestBase -INFO - Logged-in successfully
+2019-11-14 19:58:47,395 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-14 19:58:47,403 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardWebserivces4.xlsx
+2019-11-14 19:58:47,403 - org.mortbay.log -INFO - xlsheet :SingleuserSingleAccess_ADD
+2019-11-14 19:58:48,866 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-14 19:58:48,867 - org.mortbay.log -INFO - browserName :firefox
+2019-11-14 19:58:50,179 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-14 19:58:50,215 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-14 19:59:07,000 - org.mortbay.log -INFO - url passed successfully :
+2019-11-14 19:59:12,328 - TestBase -INFO - Browser Lunch successfully and URL Passed
+2019-11-14 19:59:12,805 - TestBase -INFO - Authentication for :DP0881
+2019-11-14 20:00:11,355 - TestBase -INFO - Logged-in successfully
+2019-11-14 20:08:45,955 - TestBase -INFO - waiting for :[[FirefoxDriver: firefox on WINDOWS (6d25ce28-d02a-4ae2-b29a-e96cb3f3e75f)] -> xpath: //input[starts-with(@id,'searchfield')]]for :30 seconds
+2019-11-14 20:08:45,994 - TestBase -INFO - element is visible now
+2019-11-14 20:08:58,142 - TestBase -INFO - waiting for :[[FirefoxDriver: firefox on WINDOWS (6d25ce28-d02a-4ae2-b29a-e96cb3f3e75f)] -> xpath: //span[text()='T-Number']//following::table[1]]for :30 seconds
+2019-11-14 20:08:58,203 - TestBase -INFO - element is clickable now
+2019-11-14 20:15:53,419 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-14 20:15:53,426 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardWebserivces4.xlsx
+2019-11-14 20:15:53,426 - org.mortbay.log -INFO - xlsheet :SingleuserSingleAccess_ADD
+2019-11-14 20:15:54,296 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-14 20:15:54,301 - org.mortbay.log -INFO - browserName :firefox
+2019-11-14 20:15:55,574 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-14 20:15:55,609 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-14 20:16:09,778 - org.mortbay.log -INFO - url passed successfully :
+2019-11-14 20:16:15,118 - TestBase -INFO - Browser Lunch successfully and URL Passed
+2019-11-14 20:16:15,476 - TestBase -INFO - Authentication for :DP0881
+2019-11-14 20:16:53,935 - TestBase -INFO - Logged-in successfully
+2019-11-14 20:22:01,598 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-14 20:22:01,604 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardWebserivces4.xlsx
+2019-11-14 20:22:01,605 - org.mortbay.log -INFO - xlsheet :SingleuserSingleAccess_ADD
+2019-11-14 20:22:02,997 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-14 20:22:02,998 - org.mortbay.log -INFO - browserName :firefox
+2019-11-14 20:22:04,409 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-14 20:22:04,471 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-14 20:22:19,417 - org.mortbay.log -INFO - url passed successfully :
+2019-11-14 20:22:24,790 - TestBase -INFO - Browser Lunch successfully and URL Passed
+2019-11-14 20:22:25,351 - TestBase -INFO - Authentication for :DP0881
+2019-11-14 20:23:03,940 - TestBase -INFO - Logged-in successfully
+2019-11-14 20:53:33,181 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-14 20:53:33,189 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardWebserivces4.xlsx
+2019-11-14 20:53:33,190 - org.mortbay.log -INFO - xlsheet :SingleuserSingleAccess_ADD
+2019-11-14 20:53:34,863 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-14 20:53:34,864 - org.mortbay.log -INFO - browserName :firefox
+2019-11-14 20:53:37,432 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-14 20:53:37,496 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-14 20:54:20,969 - org.mortbay.log -INFO - url passed successfully :
+2019-11-14 20:54:26,378 - TestBase -INFO - Browser Lunch successfully and URL Passed
+2019-11-14 20:58:13,111 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-14 20:58:13,119 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardWebserivces4.xlsx
+2019-11-14 20:58:13,119 - org.mortbay.log -INFO - xlsheet :SingleuserSingleAccess_ADD
+2019-11-14 20:58:14,441 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-14 20:58:14,442 - org.mortbay.log -INFO - browserName :firefox
+2019-11-14 20:58:16,498 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-14 20:58:16,598 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-14 20:58:49,522 - org.mortbay.log -INFO - url passed successfully :
+2019-11-14 20:58:55,045 - TestBase -INFO - Browser Lunch successfully and URL Passed
+2019-11-14 21:05:21,567 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-14 21:05:21,577 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardWebserivces4.xlsx
+2019-11-14 21:05:21,577 - org.mortbay.log -INFO - xlsheet :SingleuserSingleAccess_ADD
+2019-11-14 21:05:23,319 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-14 21:05:23,320 - org.mortbay.log -INFO - browserName :firefox
+2019-11-14 21:05:25,615 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-14 21:05:25,674 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-14 21:06:10,667 - org.mortbay.log -INFO - url passed successfully :
+2019-11-14 21:06:16,185 - TestBase -INFO - Browser Lunch successfully and URL Passed
+2019-11-14 21:07:51,523 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-14 21:07:51,528 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardWebserivces4.xlsx
+2019-11-14 21:07:51,528 - org.mortbay.log -INFO - xlsheet :SingleuserSingleAccess_ADD
+2019-11-14 21:07:53,131 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-14 21:07:53,139 - org.mortbay.log -INFO - browserName :firefox
+2019-11-14 21:07:55,792 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-14 21:07:55,842 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-14 21:09:05,999 - org.mortbay.log -INFO - url passed successfully :
+2019-11-14 21:09:11,476 - TestBase -INFO - Browser Lunch successfully and URL Passed
+2019-11-14 21:09:12,080 - TestBase -INFO - Authentication for :DP0881
+2019-11-14 21:09:38,064 - TestBase -INFO - Logged-in successfully
+2019-11-14 21:13:58,338 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-14 21:13:58,343 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardWebserivces4.xlsx
+2019-11-14 21:13:58,344 - org.mortbay.log -INFO - xlsheet :SingleuserSingleAccess_ADD
+2019-11-14 21:13:59,745 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-14 21:13:59,747 - org.mortbay.log -INFO - browserName :firefox
+2019-11-14 21:14:02,723 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-14 21:14:02,821 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-14 21:14:17,222 - org.mortbay.log -INFO - url passed successfully :
+2019-11-14 21:14:22,711 - TestBase -INFO - Browser Lunch successfully and URL Passed
+2019-11-14 21:14:24,133 - TestBase -INFO - Authentication for :DP0881
+2019-11-14 21:15:16,840 - TestBase -INFO - Logged-in successfully
+2019-11-14 21:26:18,888 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-14 21:26:18,895 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardWebserivces4.xlsx
+2019-11-14 21:26:18,895 - org.mortbay.log -INFO - xlsheet :SingleuserSingleAccess_ADD
+2019-11-14 21:26:19,976 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-14 21:26:19,977 - org.mortbay.log -INFO - browserName :firefox
+2019-11-14 21:26:21,857 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-14 21:26:21,952 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-14 21:26:35,378 - org.mortbay.log -INFO - url passed successfully :
+2019-11-14 21:26:40,925 - TestBase -INFO - Browser Lunch successfully and URL Passed
+2019-11-14 21:26:41,777 - TestBase -INFO - Authentication for :DP0881
+2019-11-14 21:27:17,428 - TestBase -INFO - Logged-in successfully
+2019-11-14 21:28:37,110 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-14 21:28:37,122 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardWebserivces4.xlsx
+2019-11-14 21:28:37,123 - org.mortbay.log -INFO - xlsheet :SingleuserSingleAccess_REMOVE
+2019-11-14 21:28:37,563 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-14 21:28:37,591 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardWebserivces4.xlsx
+2019-11-14 21:28:37,592 - org.mortbay.log -INFO - xlsheet :SingleuserSingleAccess_REMOVE
+2019-11-14 21:28:39,294 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-14 21:28:39,294 - org.mortbay.log -INFO - browserName :firefox
+2019-11-14 21:28:40,040 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-14 21:28:40,041 - org.mortbay.log -INFO - browserName :firefox
+2019-11-14 21:28:43,031 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-14 21:28:43,094 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-14 21:28:43,430 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-14 21:28:43,488 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-14 21:29:01,130 - org.mortbay.log -INFO - url passed successfully :
+2019-11-14 21:29:03,475 - org.mortbay.log -INFO - url passed successfully :
+2019-11-14 21:29:06,764 - TestBase -INFO - Browser Lunch successfully and URL Passed
+2019-11-14 21:29:08,195 - TestBase -INFO - Authentication for :DP0881
+2019-11-14 21:29:09,686 - TestBase -INFO - Browser Lunch successfully and URL Passed
+2019-11-14 21:29:10,704 - TestBase -INFO - Authentication for :DP0881
+2019-11-14 21:29:22,890 - TestBase -INFO - Login failed due to wrong password
+2019-11-14 21:29:46,374 - TestBase -INFO - Logged-in successfully
+2019-11-14 21:42:51,954 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-14 21:42:51,963 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardWebserivces4.xlsx
+2019-11-14 21:42:51,964 - org.mortbay.log -INFO - xlsheet :SingleuserSingleAccess_DENY
+2019-11-14 21:42:53,373 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-14 21:42:53,374 - org.mortbay.log -INFO - browserName :firefox
+2019-11-14 21:42:55,463 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-14 21:42:55,544 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-14 21:43:09,369 - org.mortbay.log -INFO - url passed successfully :
+2019-11-14 21:43:14,980 - TestBase -INFO - Browser Lunch successfully and URL Passed
+2019-11-14 21:43:16,062 - TestBase -INFO - Authentication for :DP0881
+2019-11-14 21:43:51,841 - TestBase -INFO - Logged-in successfully
+2019-11-14 21:53:30,455 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-14 21:53:30,520 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardWebserivces4.xlsx
+2019-11-14 21:53:30,521 - org.mortbay.log -INFO - xlsheet :SingleuserSingleAccess_DENY
+2019-11-14 21:53:30,527 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-14 21:53:30,636 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardWebserivces4.xlsx
+2019-11-14 21:53:30,637 - org.mortbay.log -INFO - xlsheet :SingleuserSingleAccess_DENY
+2019-11-14 21:53:35,701 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-14 21:53:35,702 - org.mortbay.log -INFO - browserName :firefox
+2019-11-14 21:53:35,889 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-14 21:53:35,891 - org.mortbay.log -INFO - browserName :firefox
+2019-11-14 21:53:41,876 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-14 21:53:42,002 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-14 21:53:42,412 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-14 21:53:42,462 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardWebserivces4.xlsx
+2019-11-14 21:53:42,463 - org.mortbay.log -INFO - xlsheet :SingleuserSingleAccess_DENY
+2019-11-14 21:53:45,267 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-14 21:53:45,268 - org.mortbay.log -INFO - browserName :firefox
+2019-11-14 21:53:48,668 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-14 21:53:48,777 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-14 21:54:55,079 - org.mortbay.log -INFO - url passed successfully :
+2019-11-14 21:55:00,512 - TestBase -INFO - Browser Lunch successfully and URL Passed
+2019-11-14 21:55:01,329 - TestBase -INFO - Authentication for :DP0881
+2019-11-15 12:27:24,980 - TestBase -INFO - Login failed due to wrong password
+2019-11-15 12:39:48,869 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-15 12:39:48,876 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardWebserivces4.xlsx
+2019-11-15 12:39:48,876 - org.mortbay.log -INFO - xlsheet :SingleuserSingleAccess_DENY
+2019-11-15 12:39:50,524 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-15 12:39:50,526 - org.mortbay.log -INFO - browserName :firefox
+2019-11-15 12:39:52,536 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-15 12:39:52,605 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-15 12:40:05,341 - org.mortbay.log -INFO - url passed successfully :
+2019-11-15 12:40:11,488 - TestBase -INFO - Browser Lunch successfully and URL Passed
+2019-11-15 12:40:12,748 - TestBase -INFO - Authentication for :DP0881
+2019-11-15 12:40:45,975 - TestBase -INFO - Logged-in successfully
+2019-11-15 12:54:50,324 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-15 12:54:50,332 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardWebserivces4.xlsx
+2019-11-15 12:54:50,334 - org.mortbay.log -INFO - xlsheet :SingleuserSingleAccess_DENY
+2019-11-15 12:54:51,912 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-15 12:54:51,913 - org.mortbay.log -INFO - browserName :firefox
+2019-11-15 12:54:54,027 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-15 12:54:54,088 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-15 12:55:06,127 - org.mortbay.log -INFO - url passed successfully :
+2019-11-15 12:55:11,414 - TestBase -INFO - Browser Lunch successfully and URL Passed
+2019-11-15 12:55:12,032 - TestBase -INFO - Authentication for :DP0881
+2019-11-15 12:55:44,637 - TestBase -INFO - Logged-in successfully
+2019-11-15 13:00:58,006 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-15 13:00:58,016 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardWebserivces4.xlsx
+2019-11-15 13:00:58,017 - org.mortbay.log -INFO - xlsheet :SingleuserSingleAccess_DENY
+2019-11-15 13:00:59,271 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-15 13:00:59,272 - org.mortbay.log -INFO - browserName :firefox
+2019-11-15 13:01:01,461 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-15 13:01:01,522 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-15 13:01:12,940 - org.mortbay.log -INFO - url passed successfully :
+2019-11-15 13:01:18,797 - TestBase -INFO - Browser Lunch successfully and URL Passed
+2019-11-15 13:01:19,904 - TestBase -INFO - Authentication for :DP0881
+2019-11-15 13:01:51,376 - TestBase -INFO - Logged-in successfully
+2019-11-15 13:04:26,155 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-15 13:04:26,167 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardWebserivces4.xlsx
+2019-11-15 13:04:26,168 - org.mortbay.log -INFO - xlsheet :SingleuserSingleAccess_DENY
+2019-11-15 13:04:27,561 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-15 13:04:27,564 - org.mortbay.log -INFO - browserName :firefox
+2019-11-15 13:04:28,994 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-15 13:04:29,031 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-15 13:04:39,969 - org.mortbay.log -INFO - url passed successfully :
+2019-11-15 13:04:45,225 - TestBase -INFO - Browser Lunch successfully and URL Passed
+2019-11-15 13:04:45,908 - TestBase -INFO - Authentication for :DP0881
+2019-11-15 13:05:22,241 - TestBase -INFO - Logged-in successfully
+2019-11-15 13:06:48,201 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-15 13:06:48,208 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardWebserivces4.xlsx
+2019-11-15 13:06:48,208 - org.mortbay.log -INFO - xlsheet :SingleuserSingleAccess_DENY
+2019-11-15 13:06:49,344 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-15 13:06:49,345 - org.mortbay.log -INFO - browserName :firefox
+2019-11-15 13:06:50,593 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-15 13:06:50,685 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-15 13:07:01,028 - org.mortbay.log -INFO - url passed successfully :
+2019-11-15 13:07:06,455 - TestBase -INFO - Browser Lunch successfully and URL Passed
+2019-11-15 13:07:07,223 - TestBase -INFO - Authentication for :DP0881
+2019-11-15 13:07:41,089 - TestBase -INFO - Logged-in successfully
+2019-11-15 13:27:43,388 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-15 13:27:43,392 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardWebserivces4.xlsx
+2019-11-15 13:27:43,393 - org.mortbay.log -INFO - xlsheet :SingleUserSingleAccess_ADD
+2019-11-15 13:27:44,336 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-15 13:27:44,338 - org.mortbay.log -INFO - browserName :firefox
+2019-11-15 13:27:45,768 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-15 13:27:45,835 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-15 13:27:57,140 - org.mortbay.log -INFO - url passed successfully :
+2019-11-15 13:28:02,605 - TestBase -INFO - Browser Lunch successfully and URL Passed
+2019-11-15 13:28:03,454 - TestBase -INFO - Authentication for :DP0881
+2019-11-15 13:28:36,823 - TestBase -INFO - Logged-in successfully
+2019-11-15 13:33:58,425 - TestBase -INFO - waiting for :[[FirefoxDriver: firefox on WINDOWS (197d4507-5bb1-442c-bc88-f3ed4acdf3cb)] -> xpath: //button[text()='Complete']]for :30 seconds
+2019-11-15 13:33:58,460 - TestBase -INFO - element is visible now
+2019-11-15 13:38:56,307 - TestBase -INFO - waiting for :[[FirefoxDriver: firefox on WINDOWS (197d4507-5bb1-442c-bc88-f3ed4acdf3cb)] -> xpath: //input[starts-with(@id,'searchfield')]]for :30 seconds
+2019-11-15 13:38:56,340 - TestBase -INFO - element is visible now
+2019-11-15 13:39:08,517 - TestBase -INFO - waiting for :[[FirefoxDriver: firefox on WINDOWS (197d4507-5bb1-442c-bc88-f3ed4acdf3cb)] -> xpath: //span[text()='T-Number']//following::table[1]]for :30 seconds
+2019-11-15 13:39:08,568 - TestBase -INFO - element is clickable now
+2019-11-15 13:53:13,635 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-15 13:53:13,640 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardWebserivces4.xlsx
+2019-11-15 13:53:13,640 - org.mortbay.log -INFO - xlsheet :SingleUserSingleAccess_REMOVE
+2019-11-15 13:53:14,732 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-15 13:53:14,733 - org.mortbay.log -INFO - browserName :firefox
+2019-11-15 13:53:16,979 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-15 13:53:17,028 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-15 13:53:26,726 - org.mortbay.log -INFO - url passed successfully :
+2019-11-15 13:53:32,039 - TestBase -INFO - Browser Lunch successfully and URL Passed
+2019-11-15 13:53:32,725 - TestBase -INFO - Authentication for :DP0881
+2019-11-15 13:54:01,478 - TestBase -INFO - Logged-in successfully
+2019-11-15 13:59:33,397 - TestBase -INFO - waiting for :[[FirefoxDriver: firefox on WINDOWS (c07e9151-66bf-42f1-a80b-07f1de287d22)] -> xpath: //button[text()='Complete']]for :30 seconds
+2019-11-15 13:59:33,477 - TestBase -INFO - element is visible now
+2019-11-15 14:04:36,130 - TestBase -INFO - waiting for :[[FirefoxDriver: firefox on WINDOWS (c07e9151-66bf-42f1-a80b-07f1de287d22)] -> xpath: //input[starts-with(@id,'searchfield')]]for :30 seconds
+2019-11-15 14:04:36,206 - TestBase -INFO - element is visible now
+2019-11-15 14:04:48,625 - TestBase -INFO - waiting for :[[FirefoxDriver: firefox on WINDOWS (c07e9151-66bf-42f1-a80b-07f1de287d22)] -> xpath: //span[text()='T-Number']//following::table[1]]for :30 seconds
+2019-11-15 14:04:48,751 - TestBase -INFO - element is clickable now
+2019-11-15 14:28:33,395 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-15 14:28:33,406 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardWebserivces4.xlsx
+2019-11-15 14:28:33,407 - org.mortbay.log -INFO - xlsheet :SingleUserSingleAccess_DENY
+2019-11-15 14:28:35,638 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-15 14:28:35,640 - org.mortbay.log -INFO - browserName :firefox
+2019-11-15 14:28:37,951 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-15 14:28:38,011 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-15 14:28:49,996 - org.mortbay.log -INFO - url passed successfully :
+2019-11-15 14:28:55,542 - TestBase -INFO - Browser Lunch successfully and URL Passed
+2019-11-15 14:28:56,436 - TestBase -INFO - Authentication for :DP0881
+2019-11-15 14:29:28,358 - TestBase -INFO - Logged-in successfully
+2019-11-15 14:33:40,301 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-15 14:33:40,306 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardWebserivces4.xlsx
+2019-11-15 14:33:40,307 - org.mortbay.log -INFO - xlsheet :SingleUserSingleAccess_DENY
+2019-11-15 14:33:41,796 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-15 14:33:41,797 - org.mortbay.log -INFO - browserName :firefox
+2019-11-15 14:33:44,404 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-15 14:33:44,476 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-15 14:34:00,421 - org.mortbay.log -INFO - url passed successfully :
+2019-11-15 14:34:05,999 - TestBase -INFO - Browser Lunch successfully and URL Passed
+2019-11-15 14:34:07,028 - TestBase -INFO - Authentication for :DP0881
+2019-11-15 14:34:39,622 - TestBase -INFO - Logged-in successfully
+2019-11-15 15:39:02,976 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-15 15:39:02,980 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardWebserivces4.xlsx
+2019-11-15 15:39:02,981 - org.mortbay.log -INFO - xlsheet :SingleUserSingleAccess_DENY
+2019-11-15 15:39:03,957 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-15 15:39:03,958 - org.mortbay.log -INFO - browserName :firefox
+2019-11-15 15:39:05,341 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-15 15:39:05,378 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-15 15:39:21,594 - org.mortbay.log -INFO - url passed successfully :
+2019-11-15 15:39:26,866 - TestBase -INFO - Browser Lunch successfully and URL Passed
+2019-11-15 15:39:27,323 - TestBase -INFO - Authentication for :DP0881
+2019-11-15 15:40:19,002 - TestBase -INFO - Logged-in successfully
+2019-11-15 15:43:00,058 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-15 15:43:00,063 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardWebserivces4.xlsx
+2019-11-15 15:43:00,063 - org.mortbay.log -INFO - xlsheet :SingleUserSingleAccess_DENY
+2019-11-15 15:43:00,918 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-15 15:43:00,923 - org.mortbay.log -INFO - browserName :firefox
+2019-11-15 15:43:02,880 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-15 15:43:02,939 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-15 15:43:12,571 - org.mortbay.log -INFO - url passed successfully :
+2019-11-15 15:43:17,862 - TestBase -INFO - Browser Lunch successfully and URL Passed
+2019-11-15 15:43:18,357 - TestBase -INFO - Authentication for :DP0881
+2019-11-15 15:43:50,502 - TestBase -INFO - Logged-in successfully
+2019-11-15 15:47:16,391 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-15 15:47:16,396 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardWebserivces4.xlsx
+2019-11-15 15:47:16,397 - org.mortbay.log -INFO - xlsheet :SingleUserSingleAccess_DENY
+2019-11-15 15:47:17,510 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-15 15:47:17,511 - org.mortbay.log -INFO - browserName :firefox
+2019-11-15 15:47:18,997 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-15 15:47:19,066 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-15 15:47:31,332 - org.mortbay.log -INFO - url passed successfully :
+2019-11-15 15:47:36,763 - TestBase -INFO - Browser Lunch successfully and URL Passed
+2019-11-15 15:47:37,670 - TestBase -INFO - Authentication for :DP0881
+2019-11-15 15:48:21,403 - TestBase -INFO - Logged-in successfully
+2019-11-15 15:53:29,299 - TestBase -INFO - waiting for :[[FirefoxDriver: firefox on WINDOWS (5474a13d-6e33-4239-a300-fb4e6b0a3008)] -> xpath: //button[contains(@id,'btnRejectApproval')]]for :30 seconds
+2019-11-15 15:53:29,329 - TestBase -INFO - element is visible now
+2019-11-15 15:53:38,828 - TestBase -INFO - waiting for :[[FirefoxDriver: firefox on WINDOWS (5474a13d-6e33-4239-a300-fb4e6b0a3008)] -> xpath: //button[text()='Complete']]for :30 seconds
+2019-11-15 15:53:38,895 - TestBase -INFO - element is visible now
+2019-11-15 15:57:37,218 - TestBase -INFO - waiting for :[[FirefoxDriver: firefox on WINDOWS (5474a13d-6e33-4239-a300-fb4e6b0a3008)] -> xpath: //input[starts-with(@id,'searchfield')]]for :30 seconds
+2019-11-15 15:57:37,254 - TestBase -INFO - element is visible now
+2019-11-15 15:57:49,449 - TestBase -INFO - waiting for :[[FirefoxDriver: firefox on WINDOWS (5474a13d-6e33-4239-a300-fb4e6b0a3008)] -> xpath: //span[text()='T-Number']//following::table[1]]for :30 seconds
+2019-11-15 15:57:49,495 - TestBase -INFO - element is clickable now
+2019-11-15 17:31:45,517 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-15 17:31:45,522 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardWebserivces4.xlsx
+2019-11-15 17:31:45,522 - org.mortbay.log -INFO - xlsheet :SingleUserSingleAccess_ADD
+2019-11-15 17:31:46,613 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-15 17:31:46,615 - org.mortbay.log -INFO - browserName :firefox
+2019-11-15 17:31:49,303 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-15 17:31:49,378 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-15 17:32:02,999 - org.mortbay.log -INFO - url passed successfully :
+2019-11-15 17:32:08,292 - TestBase -INFO - Browser Lunch successfully and URL Passed
+2019-11-15 17:32:08,838 - TestBase -INFO - Authentication for :DP0881
+2019-11-15 17:32:52,305 - TestBase -INFO - Logged-in successfully
+2019-11-15 17:40:59,145 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-15 17:40:59,151 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardWebserivces4.xlsx
+2019-11-15 17:40:59,151 - org.mortbay.log -INFO - xlsheet :SingleUserSingleAccess_ADD
+2019-11-15 17:41:00,337 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-15 17:41:00,338 - org.mortbay.log -INFO - browserName :firefox
+2019-11-15 17:41:02,011 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-15 17:41:02,068 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-15 17:41:13,764 - org.mortbay.log -INFO - url passed successfully :
+2019-11-15 17:41:19,002 - TestBase -INFO - Browser Lunch successfully and URL Passed
+2019-11-15 17:41:19,597 - TestBase -INFO - Authentication for :DP0881
+2019-11-15 17:41:53,230 - TestBase -INFO - Logged-in successfully
+2019-11-15 17:43:59,837 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-15 17:43:59,841 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardWebserivces4.xlsx
+2019-11-15 17:43:59,842 - org.mortbay.log -INFO - xlsheet :SingleUserSingleAccess_ADD
+2019-11-15 17:44:00,654 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-15 17:44:00,655 - org.mortbay.log -INFO - browserName :firefox
+2019-11-15 17:44:02,158 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-15 17:44:02,219 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-15 17:44:15,089 - org.mortbay.log -INFO - url passed successfully :
+2019-11-15 17:44:20,351 - TestBase -INFO - Browser Lunch successfully and URL Passed
+2019-11-15 17:44:20,871 - TestBase -INFO - Authentication for :DP0881
+2019-11-15 17:44:54,726 - TestBase -INFO - Logged-in successfully
+2019-11-15 18:24:31,712 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-15 18:24:31,717 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardWebserivces4.xlsx
+2019-11-15 18:24:31,717 - org.mortbay.log -INFO - xlsheet :SingleUserSingleAccess_ADD
+2019-11-15 18:24:32,635 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-15 18:24:32,636 - org.mortbay.log -INFO - browserName :firefox
+2019-11-15 18:24:34,122 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-15 18:24:34,168 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-15 18:24:45,630 - org.mortbay.log -INFO - url passed successfully :
+2019-11-15 18:24:50,937 - TestBase -INFO - Browser Lunch successfully and URL Passed
+2019-11-15 18:24:51,583 - TestBase -INFO - Authentication for :DP0881
+2019-11-15 18:25:19,672 - TestBase -INFO - Logged-in successfully
+2019-11-15 18:34:41,009 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-15 18:34:41,016 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardWebserivces4.xlsx
+2019-11-15 18:34:41,016 - org.mortbay.log -INFO - xlsheet :SingleUserSingleAccess_ADD
+2019-11-15 18:34:42,143 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-15 18:34:42,144 - org.mortbay.log -INFO - browserName :firefox
+2019-11-15 18:34:43,705 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-15 18:34:43,751 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-15 18:34:54,247 - org.mortbay.log -INFO - url passed successfully :
+2019-11-15 18:34:59,481 - TestBase -INFO - Browser Lunch successfully and URL Passed
+2019-11-15 18:35:00,315 - TestBase -INFO - Authentication for :DP0881
+2019-11-15 18:35:32,272 - TestBase -INFO - Logged-in successfully
+2019-11-15 18:38:49,939 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-15 18:38:49,946 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardWebserivces4.xlsx
+2019-11-15 18:38:49,947 - org.mortbay.log -INFO - xlsheet :SingleUserSingleAccess_ADD
+2019-11-15 18:38:51,244 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-15 18:38:51,244 - org.mortbay.log -INFO - browserName :firefox
+2019-11-15 18:38:52,433 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-15 18:38:52,471 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-15 18:39:05,168 - org.mortbay.log -INFO - url passed successfully :
+2019-11-15 18:39:10,528 - TestBase -INFO - Browser Lunch successfully and URL Passed
+2019-11-15 18:39:11,509 - TestBase -INFO - Authentication for :DP0881
+2019-11-15 18:39:43,700 - TestBase -INFO - Logged-in successfully
+2019-11-15 18:44:05,653 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-15 18:44:05,657 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardWebserivces4.xlsx
+2019-11-15 18:44:05,657 - org.mortbay.log -INFO - xlsheet :SingleUserSingleAccess_REMOVE
+2019-11-15 18:44:06,800 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-15 18:44:06,802 - org.mortbay.log -INFO - browserName :firefox
+2019-11-15 18:44:08,765 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-15 18:44:08,820 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-15 18:44:19,012 - org.mortbay.log -INFO - url passed successfully :
+2019-11-15 18:44:24,384 - TestBase -INFO - Browser Lunch successfully and URL Passed
+2019-11-15 18:44:25,082 - TestBase -INFO - Authentication for :DP0881
+2019-11-15 18:44:58,017 - TestBase -INFO - Logged-in successfully
+2019-11-15 18:55:42,890 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-15 18:55:42,895 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardWebserivces4.xlsx
+2019-11-15 18:55:42,895 - org.mortbay.log -INFO - xlsheet :SingleUserSingleAccess_ADD
+2019-11-15 18:55:43,907 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-15 18:55:43,909 - org.mortbay.log -INFO - browserName :firefox
+2019-11-15 18:55:45,774 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-15 18:55:45,833 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-15 18:55:57,798 - org.mortbay.log -INFO - url passed successfully :
+2019-11-15 18:56:03,075 - TestBase -INFO - Browser Lunch successfully and URL Passed
+2019-11-15 18:56:03,712 - TestBase -INFO - Authentication for :DP0881
+2019-11-15 18:56:40,834 - TestBase -INFO - Logged-in successfully
+2019-11-15 19:02:31,643 - TestBase -INFO - waiting for :[[FirefoxDriver: firefox on WINDOWS (b8ebff74-bc40-42ed-9fbf-63d3f09ffd78)] -> xpath: //button[text()='Complete']]for :30 seconds
+2019-11-15 19:02:31,687 - TestBase -INFO - element is visible now
+2019-11-15 19:06:43,515 - TestBase -INFO - waiting for :[[FirefoxDriver: firefox on WINDOWS (b8ebff74-bc40-42ed-9fbf-63d3f09ffd78)] -> xpath: //input[starts-with(@id,'searchfield')]]for :30 seconds
+2019-11-15 19:06:43,559 - TestBase -INFO - element is visible now
+2019-11-15 19:06:55,739 - TestBase -INFO - waiting for :[[FirefoxDriver: firefox on WINDOWS (b8ebff74-bc40-42ed-9fbf-63d3f09ffd78)] -> xpath: //span[text()='T-Number']//following::table[1]]for :30 seconds
+2019-11-15 19:06:55,815 - TestBase -INFO - element is clickable now
+2019-11-15 19:49:49,754 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-15 19:49:49,760 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardWebserivces4.xlsx
+2019-11-15 19:49:49,760 - org.mortbay.log -INFO - xlsheet :SingleUserSingleAccess_Remove
+2019-11-15 19:49:50,980 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-15 19:49:50,981 - org.mortbay.log -INFO - browserName :firefox
+2019-11-15 19:49:52,420 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-15 19:49:52,457 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-15 19:50:03,616 - org.mortbay.log -INFO - url passed successfully :
+2019-11-15 19:50:08,990 - TestBase -INFO - Browser Lunch successfully and URL Passed
+2019-11-15 19:50:09,660 - TestBase -INFO - Authentication for :DP0881
+2019-11-15 19:50:39,664 - TestBase -INFO - Logged-in successfully
+2019-11-15 19:56:33,875 - TestBase -INFO - waiting for :[[FirefoxDriver: firefox on WINDOWS (2ef251fc-d03b-4370-b487-46685750f619)] -> xpath: //button[text()='Complete']]for :30 seconds
+2019-11-15 19:56:33,912 - TestBase -INFO - element is visible now
+2019-11-15 20:00:32,546 - TestBase -INFO - waiting for :[[FirefoxDriver: firefox on WINDOWS (2ef251fc-d03b-4370-b487-46685750f619)] -> xpath: //input[starts-with(@id,'searchfield')]]for :30 seconds
+2019-11-15 20:00:32,576 - TestBase -INFO - element is visible now
+2019-11-15 20:00:44,761 - TestBase -INFO - waiting for :[[FirefoxDriver: firefox on WINDOWS (2ef251fc-d03b-4370-b487-46685750f619)] -> xpath: //span[text()='T-Number']//following::table[1]]for :30 seconds
+2019-11-15 20:00:44,824 - TestBase -INFO - element is clickable now
+2019-11-15 20:21:41,217 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-15 20:21:41,221 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardWebserivces4.xlsx
+2019-11-15 20:21:41,221 - org.mortbay.log -INFO - xlsheet :SingleUserSingleAccess_DENY
+2019-11-15 20:21:42,187 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-15 20:21:42,187 - org.mortbay.log -INFO - browserName :firefox
+2019-11-15 20:21:43,555 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-15 20:21:43,594 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-15 20:21:53,279 - org.mortbay.log -INFO - url passed successfully :
+2019-11-15 20:21:58,526 - TestBase -INFO - Browser Lunch successfully and URL Passed
+2019-11-15 20:21:59,150 - TestBase -INFO - Authentication for :DP0881
+2019-11-15 20:22:30,478 - TestBase -INFO - Logged-in successfully
+2019-11-15 20:28:10,840 - TestBase -INFO - waiting for :[[FirefoxDriver: firefox on WINDOWS (75a3e70d-1e78-44da-b479-fa212dbbecc5)] -> xpath: //button[contains(@id,'btnRejectApproval')]]for :30 seconds
+2019-11-15 20:28:10,891 - TestBase -INFO - element is visible now
+2019-11-15 20:28:20,623 - TestBase -INFO - waiting for :[[FirefoxDriver: firefox on WINDOWS (75a3e70d-1e78-44da-b479-fa212dbbecc5)] -> xpath: //button[text()='Complete']]for :30 seconds
+2019-11-15 20:28:20,659 - TestBase -INFO - element is visible now
+2019-11-15 20:32:23,324 - TestBase -INFO - waiting for :[[FirefoxDriver: firefox on WINDOWS (75a3e70d-1e78-44da-b479-fa212dbbecc5)] -> xpath: //input[starts-with(@id,'searchfield')]]for :30 seconds
+2019-11-15 20:32:23,376 - TestBase -INFO - element is visible now
+2019-11-15 20:32:35,556 - TestBase -INFO - waiting for :[[FirefoxDriver: firefox on WINDOWS (75a3e70d-1e78-44da-b479-fa212dbbecc5)] -> xpath: //span[text()='T-Number']//following::table[1]]for :30 seconds
+2019-11-15 20:32:35,651 - TestBase -INFO - element is clickable now
+2019-11-15 20:41:33,053 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-15 20:41:33,064 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardWebserivces4.xlsx
+2019-11-15 20:41:33,065 - org.mortbay.log -INFO - xlsheet :SingleUserSingleAccess_ADD
+2019-11-15 20:41:34,681 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-15 20:41:34,683 - org.mortbay.log -INFO - browserName :firefox
+2019-11-15 20:41:36,137 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-15 20:41:36,172 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-15 20:41:45,729 - org.mortbay.log -INFO - url passed successfully :
+2019-11-15 20:41:51,169 - TestBase -INFO - Browser Lunch successfully and URL Passed
+2019-11-15 20:41:51,728 - TestBase -INFO - Authentication for :DP0881
+2019-11-15 20:42:21,062 - TestBase -INFO - Logged-in successfully
+2019-11-15 20:45:21,656 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-15 20:45:21,660 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardWebserivces4.xlsx
+2019-11-15 20:45:21,660 - org.mortbay.log -INFO - xlsheet :SingleUserSingleAccess_ADD
+2019-11-15 20:45:22,551 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-15 20:45:22,552 - org.mortbay.log -INFO - browserName :firefox
+2019-11-15 20:45:23,911 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-15 20:45:23,948 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-15 20:45:36,565 - org.mortbay.log -INFO - url passed successfully :
+2019-11-15 20:45:41,848 - TestBase -INFO - Browser Lunch successfully and URL Passed
+2019-11-15 20:45:42,273 - TestBase -INFO - Authentication for :DP0881
+2019-11-15 20:46:11,636 - TestBase -INFO - Logged-in successfully
+2019-11-15 20:54:08,894 - TestBase -INFO - waiting for :[[FirefoxDriver: firefox on WINDOWS (3f6d446c-1636-4d8a-bc81-579f89f3a627)] -> xpath: //input[starts-with(@id,'searchfield')]]for :30 seconds
+2019-11-15 20:54:08,923 - TestBase -INFO - element is visible now
+2019-11-15 20:54:21,127 - TestBase -INFO - waiting for :[[FirefoxDriver: firefox on WINDOWS (3f6d446c-1636-4d8a-bc81-579f89f3a627)] -> xpath: //span[text()='T-Number']//following::table[1]]for :30 seconds
+2019-11-15 20:54:21,193 - TestBase -INFO - element is clickable now
+2019-11-15 21:10:58,562 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-15 21:10:58,572 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardWebserivces4.xlsx
+2019-11-15 21:10:58,572 - org.mortbay.log -INFO - xlsheet :SingleUserSingleAccess_Remove
+2019-11-15 21:11:00,400 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-15 21:11:00,401 - org.mortbay.log -INFO - browserName :firefox
+2019-11-15 21:11:02,822 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-15 21:11:02,907 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-15 21:11:16,041 - org.mortbay.log -INFO - url passed successfully :
+2019-11-15 21:11:21,403 - TestBase -INFO - Browser Lunch successfully and URL Passed
+2019-11-15 21:11:22,017 - TestBase -INFO - Authentication for :DP0881
+2019-11-15 21:11:52,971 - TestBase -INFO - Logged-in successfully
+2019-11-15 21:19:51,621 - TestBase -INFO - waiting for :[[FirefoxDriver: firefox on WINDOWS (279c41b1-5525-4920-9f8c-7a9fe55be575)] -> xpath: //input[starts-with(@id,'searchfield')]]for :30 seconds
+2019-11-15 21:19:51,673 - TestBase -INFO - element is visible now
+2019-11-15 21:20:03,945 - TestBase -INFO - waiting for :[[FirefoxDriver: firefox on WINDOWS (279c41b1-5525-4920-9f8c-7a9fe55be575)] -> xpath: //span[text()='T-Number']//following::table[1]]for :30 seconds
+2019-11-15 21:20:04,017 - TestBase -INFO - element is clickable now
+2019-11-15 21:37:56,463 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-15 21:37:56,470 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardWebserivces4.xlsx
+2019-11-15 21:37:56,471 - org.mortbay.log -INFO - xlsheet :SingleUserMultipleAccess_ADD
+2019-11-15 21:37:57,918 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-15 21:37:57,919 - org.mortbay.log -INFO - browserName :firefox
+2019-11-15 21:37:59,586 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-15 21:37:59,633 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-15 21:38:09,409 - org.mortbay.log -INFO - url passed successfully :
+2019-11-15 21:38:14,893 - TestBase -INFO - Browser Lunch successfully and URL Passed
+2019-11-15 21:38:16,244 - TestBase -INFO - Authentication for :DP0881
+2019-11-15 21:38:48,557 - TestBase -INFO - Logged-in successfully
+2019-11-15 21:42:17,757 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-15 21:42:17,766 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardWebserivces4.xlsx
+2019-11-15 21:42:17,767 - org.mortbay.log -INFO - xlsheet :SingleUserMultipleAccess_ADD
+2019-11-15 21:42:19,324 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-15 21:42:19,324 - org.mortbay.log -INFO - browserName :firefox
+2019-11-15 21:42:22,346 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-15 21:42:22,421 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-15 21:42:55,351 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-15 21:42:55,358 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardWebserivces4.xlsx
+2019-11-15 21:42:55,358 - org.mortbay.log -INFO - xlsheet :SingleUserMultipleAccess_ADD
+2019-11-15 21:42:57,330 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-15 21:42:57,331 - org.mortbay.log -INFO - browserName :firefox
+2019-11-15 21:42:59,801 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-15 21:42:59,877 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-15 21:43:13,861 - org.mortbay.log -INFO - url passed successfully :
+2019-11-15 21:43:19,286 - TestBase -INFO - Browser Lunch successfully and URL Passed
+2019-11-15 21:43:20,117 - TestBase -INFO - Authentication for :DP0881
+2019-11-15 21:43:52,657 - TestBase -INFO - Logged-in successfully
+2019-11-15 21:49:55,418 - TestBase -INFO - waiting for :[[FirefoxDriver: firefox on WINDOWS (b3b7fb8e-e4bb-4077-b3a8-d8cbaa0c5739)] -> xpath: //button[contains(@id,'btnApproveApproval')]]for :30 seconds
+2019-11-16 21:15:24,588 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-16 21:15:24,606 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardWebserivces4.xlsx
+2019-11-16 21:15:24,606 - org.mortbay.log -INFO - xlsheet :SingleUserMultipleAccess_ADD
+2019-11-16 21:15:25,840 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-16 21:15:25,845 - org.mortbay.log -INFO - browserName :firefox
+2019-11-16 21:15:28,207 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-16 21:15:28,254 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-16 21:15:41,876 - org.mortbay.log -INFO - url passed successfully :
+2019-11-16 21:15:47,212 - TestBase -INFO - Browser Lunch successfully and URL Passed
+2019-11-16 21:15:47,905 - TestBase -INFO - Authentication for :DP0881
+2019-11-16 21:16:21,202 - TestBase -INFO - Logged-in successfully
+2019-11-16 21:19:54,254 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-16 21:19:54,261 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardWebserivces4.xlsx
+2019-11-16 21:19:54,261 - org.mortbay.log -INFO - xlsheet :SingleUserMultipleAccess_ADD
+2019-11-16 21:19:55,084 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-16 21:19:55,084 - org.mortbay.log -INFO - browserName :firefox
+2019-11-16 21:19:56,225 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-16 21:19:56,262 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-16 21:20:06,052 - org.mortbay.log -INFO - url passed successfully :
+2019-11-16 21:20:11,402 - TestBase -INFO - Browser Lunch successfully and URL Passed
+2019-11-16 21:20:11,963 - TestBase -INFO - Authentication for :DP0881
+2019-11-16 21:20:43,826 - TestBase -INFO - Logged-in successfully
+2019-11-16 21:32:35,973 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-16 21:32:35,981 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardWebserivces4.xlsx
+2019-11-16 21:32:35,981 - org.mortbay.log -INFO - xlsheet :SingleUserMultipleAccess_ADD
+2019-11-16 21:32:36,825 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-16 21:32:36,825 - org.mortbay.log -INFO - browserName :firefox
+2019-11-16 21:32:38,768 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-16 21:32:38,823 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-16 21:32:49,060 - org.mortbay.log -INFO - url passed successfully :
+2019-11-16 21:32:54,425 - TestBase -INFO - Browser Lunch successfully and URL Passed
+2019-11-16 21:32:55,010 - TestBase -INFO - Authentication for :DP0881
+2019-11-16 21:33:24,461 - TestBase -INFO - Logged-in successfully
+2019-11-16 21:43:01,792 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-16 21:43:01,810 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardWebserivces4.xlsx
+2019-11-16 21:43:01,810 - org.mortbay.log -INFO - xlsheet :SingleUserMultipleAccess_ADD
+2019-11-16 21:43:03,389 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-16 21:43:03,389 - org.mortbay.log -INFO - browserName :firefox
+2019-11-16 21:43:05,060 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-16 21:43:05,105 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-16 21:43:16,336 - org.mortbay.log -INFO - url passed successfully :
+2019-11-16 21:43:21,628 - TestBase -INFO - Browser Lunch successfully and URL Passed
+2019-11-16 21:43:22,024 - TestBase -INFO - Authentication for :DP0881
+2019-11-16 21:43:54,177 - TestBase -INFO - Logged-in successfully
+2019-11-16 21:49:47,691 - TestBase -INFO - waiting for :[[FirefoxDriver: firefox on WINDOWS (cb80d3e8-8040-4369-9bc6-5bb1cc4db209)] -> xpath: //button[contains(@id,'btnApproveApproval')]]for :30 seconds
+2019-11-16 22:08:56,431 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-16 22:08:56,438 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardWebserivces4.xlsx
+2019-11-16 22:08:56,438 - org.mortbay.log -INFO - xlsheet :SingleUserMultipleAccess_ADD
+2019-11-16 22:08:57,351 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-16 22:08:57,351 - org.mortbay.log -INFO - browserName :firefox
+2019-11-16 22:08:59,283 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-16 22:08:59,322 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-16 22:09:09,647 - org.mortbay.log -INFO - url passed successfully :
+2019-11-16 22:09:15,043 - TestBase -INFO - Browser Lunch successfully and URL Passed
+2019-11-16 22:09:15,491 - TestBase -INFO - Authentication for :DP0881
+2019-11-16 22:09:48,061 - TestBase -INFO - Logged-in successfully
+2019-11-16 22:20:18,504 - TestBase -INFO - waiting for :[[FirefoxDriver: firefox on WINDOWS (3dbf9f79-4f60-435e-93fd-c47ffa345824)] -> xpath: //input[starts-with(@id,'searchfield')]]for :30 seconds
+2019-11-16 22:20:18,590 - TestBase -INFO - element is visible now
+2019-11-16 22:20:30,952 - TestBase -INFO - waiting for :[[FirefoxDriver: firefox on WINDOWS (3dbf9f79-4f60-435e-93fd-c47ffa345824)] -> xpath: //span[text()='T-Number']//following::table[1]]for :30 seconds
+2019-11-16 22:20:31,033 - TestBase -INFO - element is clickable now
+2019-11-16 23:06:05,463 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-16 23:06:05,468 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardWebserivces4.xlsx
+2019-11-16 23:06:05,469 - org.mortbay.log -INFO - xlsheet :SingleUserMultipleAccess_ADD
+2019-11-16 23:06:06,650 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-16 23:06:06,651 - org.mortbay.log -INFO - browserName :firefox
+2019-11-16 23:06:08,532 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-16 23:06:08,606 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-16 23:06:23,101 - org.mortbay.log -INFO - url passed successfully :
+2019-11-16 23:06:28,585 - TestBase -INFO - Browser Lunch successfully and URL Passed
+2019-11-16 23:06:30,047 - TestBase -INFO - Authentication for :DP0881
+2019-11-16 23:07:13,313 - TestBase -INFO - Logged-in successfully
+2019-11-16 23:08:02,931 - TestBase -INFO - waiting for :[[FirefoxDriver: firefox on WINDOWS (64c347d6-91ee-4edd-bba2-4c77d725ecc8)] -> xpath: //input[starts-with(@id,'searchfield')]]for :30 seconds
+2019-11-16 23:08:03,008 - TestBase -INFO - element is visible now
+2019-11-16 23:08:15,476 - TestBase -INFO - waiting for :[[FirefoxDriver: firefox on WINDOWS (64c347d6-91ee-4edd-bba2-4c77d725ecc8)] -> xpath: //span[text()='T-Number']//following::table[1]]for :30 seconds
+2019-11-16 23:08:15,712 - TestBase -INFO - element is clickable now
+2019-11-18 13:44:48,749 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-18 13:44:48,755 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardWebserivces4.xlsx
+2019-11-18 13:44:48,755 - org.mortbay.log -INFO - xlsheet :SingleUserMultipleAccess_ADD
+2019-11-18 13:44:50,256 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-18 13:44:50,256 - org.mortbay.log -INFO - browserName :firefox
+2019-11-18 13:44:53,870 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-18 13:44:53,942 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-18 13:45:14,918 - org.mortbay.log -INFO - url passed successfully :
+2019-11-18 13:45:20,238 - TestBase -INFO - Browser Lunch successfully and URL Passed
+2019-11-18 13:45:20,975 - TestBase -INFO - Authentication for :DP0881
+2019-11-18 13:46:51,422 - TestBase -INFO - Logged-in successfully
+2019-11-18 14:02:49,951 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-18 14:02:49,958 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardingJDBC.xlsx
+2019-11-18 14:02:49,958 - org.mortbay.log -INFO - xlsheet :SingleuserSingleAccess_ADD
+2019-11-18 14:02:50,982 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-18 14:02:50,983 - org.mortbay.log -INFO - browserName :firefox
+2019-11-18 14:02:52,166 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-18 14:02:52,247 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-18 14:03:07,984 - org.mortbay.log -INFO - url passed successfully :
+2019-11-18 14:03:13,847 - TestBase -INFO - Browser Lunch successfully and URL Passed
+2019-11-18 14:03:15,356 - TestBase -INFO - Authentication for :DP0881
+2019-11-18 14:04:35,274 - TestBase -INFO - Logged-in successfully
+2019-11-18 14:08:53,582 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-18 14:08:53,591 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardingJDBC.xlsx
+2019-11-18 14:08:53,591 - org.mortbay.log -INFO - xlsheet :SingleuserSingleAccess_ADD
+2019-11-18 14:08:54,899 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-18 14:08:54,908 - org.mortbay.log -INFO - browserName :firefox
+2019-11-18 14:08:56,062 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-18 14:08:56,083 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-18 14:09:20,194 - org.mortbay.log -INFO - url passed successfully :
+2019-11-18 14:09:25,579 - TestBase -INFO - Browser Lunch successfully and URL Passed
+2019-11-18 14:09:26,318 - TestBase -INFO - Authentication for :DP0881
+2019-11-18 14:11:06,699 - TestBase -INFO - Logged-in successfully
+2019-11-18 14:15:49,858 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-18 14:15:49,873 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardingJDBC.xlsx
+2019-11-18 14:15:49,873 - org.mortbay.log -INFO - xlsheet :SingleuserSingleAccess_ADD
+2019-11-18 14:15:50,857 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-18 14:15:50,857 - org.mortbay.log -INFO - browserName :firefox
+2019-11-18 14:15:52,076 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-18 14:15:52,111 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-18 14:16:13,542 - org.mortbay.log -INFO - url passed successfully :
+2019-11-18 14:16:18,838 - TestBase -INFO - Browser Lunch successfully and URL Passed
+2019-11-18 14:16:19,332 - TestBase -INFO - Authentication for :DP0881
+2019-11-18 14:17:54,354 - TestBase -INFO - Logged-in successfully
+2019-11-18 15:09:08,856 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-18 15:09:08,869 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardingJDBC.xlsx
+2019-11-18 15:09:08,869 - org.mortbay.log -INFO - xlsheet :SingleuserSingleAccess_ADD
+2019-11-18 15:09:10,181 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-18 15:09:10,182 - org.mortbay.log -INFO - browserName :firefox
+2019-11-18 15:09:12,058 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-18 15:09:12,105 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-18 15:09:27,769 - org.mortbay.log -INFO - url passed successfully :
+2019-11-18 15:09:33,106 - TestBase -INFO - Browser Lunch successfully and URL Passed
+2019-11-18 15:09:33,605 - TestBase -INFO - Authentication for :DP0881
+2019-11-18 15:10:49,054 - TestBase -INFO - Logged-in successfully
+2019-11-18 15:17:15,592 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-18 15:17:15,600 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardingJDBC.xlsx
+2019-11-18 15:17:15,600 - org.mortbay.log -INFO - xlsheet :SingleuserSingleAccess_ADD
+2019-11-18 15:17:16,455 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-18 15:17:16,455 - org.mortbay.log -INFO - browserName :firefox
+2019-11-18 15:17:17,597 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-18 15:17:17,639 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-18 15:17:34,270 - org.mortbay.log -INFO - url passed successfully :
+2019-11-18 15:17:39,686 - TestBase -INFO - Browser Lunch successfully and URL Passed
+2019-11-18 15:17:40,291 - TestBase -INFO - Authentication for :DP0881
+2019-11-18 15:18:33,465 - TestBase -INFO - Logged-in successfully
+2019-11-18 15:24:21,672 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-18 15:24:21,687 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardingJDBC.xlsx
+2019-11-18 15:24:21,687 - org.mortbay.log -INFO - xlsheet :SingleuserSingleAccess_ADD
+2019-11-18 15:24:22,546 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-18 15:24:22,546 - org.mortbay.log -INFO - browserName :firefox
+2019-11-18 15:24:23,734 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-18 15:24:23,778 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-18 15:24:52,994 - org.mortbay.log -INFO - url passed successfully :
+2019-11-18 15:24:58,327 - TestBase -INFO - Browser Lunch successfully and URL Passed
+2019-11-18 15:24:58,926 - TestBase -INFO - Authentication for :DP0881
+2019-11-18 15:25:51,920 - TestBase -INFO - Logged-in successfully
+2019-11-18 15:40:44,439 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-18 15:40:44,461 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardingJDBC.xlsx
+2019-11-18 15:40:44,461 - org.mortbay.log -INFO - xlsheet :SingleuserSingleAccess_ADD
+2019-11-18 15:40:45,933 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-18 15:40:45,949 - org.mortbay.log -INFO - browserName :firefox
+2019-11-18 15:40:47,528 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-18 15:40:47,567 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-18 15:41:04,730 - org.mortbay.log -INFO - url passed successfully :
+2019-11-18 15:41:10,006 - TestBase -INFO - Browser Lunch successfully and URL Passed
+2019-11-18 15:41:10,476 - TestBase -INFO - Authentication for :DP0881
+2019-11-18 15:43:26,124 - TestBase -INFO - Logged-in successfully
+2019-11-18 15:55:38,476 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-18 15:55:38,485 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardingJDBC.xlsx
+2019-11-18 15:55:38,485 - org.mortbay.log -INFO - xlsheet :SingleuserSingleAccess_ADD
+2019-11-18 15:55:39,730 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-18 15:55:39,740 - org.mortbay.log -INFO - browserName :firefox
+2019-11-18 15:55:41,127 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-18 15:55:41,187 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-18 15:56:01,737 - org.mortbay.log -INFO - url passed successfully :
+2019-11-18 15:56:07,124 - TestBase -INFO - Browser Lunch successfully and URL Passed
+2019-11-18 15:56:07,732 - TestBase -INFO - Authentication for :DP0881
+2019-11-18 15:57:12,532 - TestBase -INFO - Logged-in successfully
+2019-11-18 16:18:35,004 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-18 16:18:35,016 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardingJDBC.xlsx
+2019-11-18 16:18:35,016 - org.mortbay.log -INFO - xlsheet :SingleuserSingleAccess_ADD
+2019-11-18 16:18:36,063 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-18 16:18:36,067 - org.mortbay.log -INFO - browserName :firefox
+2019-11-18 16:18:37,287 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-18 16:18:37,324 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-18 16:18:57,149 - org.mortbay.log -INFO - url passed successfully :
+2019-11-18 16:19:02,396 - TestBase -INFO - Browser Lunch successfully and URL Passed
+2019-11-18 16:19:02,880 - TestBase -INFO - Authentication for :DP0881
+2019-11-18 16:20:15,302 - TestBase -INFO - Logged-in successfully
+2019-11-18 16:24:54,952 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-18 16:24:54,959 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardingJDBC.xlsx
+2019-11-18 16:24:54,959 - org.mortbay.log -INFO - xlsheet :SingleuserSingleAccess_ADD
+2019-11-18 16:24:55,850 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-18 16:24:55,866 - org.mortbay.log -INFO - browserName :firefox
+2019-11-18 16:24:56,987 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-18 16:24:57,029 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-18 16:26:02,032 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-18 16:26:02,039 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardingJDBC.xlsx
+2019-11-18 16:26:02,039 - org.mortbay.log -INFO - xlsheet :SingleuserSingleAccess_ADD
+2019-11-18 16:26:03,102 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-18 16:26:03,113 - org.mortbay.log -INFO - browserName :firefox
+2019-11-18 16:26:04,224 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-18 16:26:04,264 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-18 16:26:21,910 - org.mortbay.log -INFO - url passed successfully :
+2019-11-18 16:26:27,476 - TestBase -INFO - Browser Lunch successfully and URL Passed
+2019-11-18 16:26:28,645 - TestBase -INFO - Authentication for :DP0881
+2019-11-18 16:26:54,986 - TestBase -INFO - Logged-in successfully
+2019-11-18 16:32:45,073 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-18 16:32:45,083 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardingJDBC.xlsx
+2019-11-18 16:32:45,085 - org.mortbay.log -INFO - xlsheet :SingleuserSingleAccess_ADD
+2019-11-18 16:32:46,205 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-18 16:32:46,207 - org.mortbay.log -INFO - browserName :firefox
+2019-11-18 16:32:48,100 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-18 16:32:48,175 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-18 16:33:13,279 - org.mortbay.log -INFO - url passed successfully :
+2019-11-18 16:33:18,841 - TestBase -INFO - Browser Lunch successfully and URL Passed
+2019-11-18 16:33:20,190 - TestBase -INFO - Authentication for :DP0881
+2019-11-18 16:35:31,684 - TestBase -INFO - Logged-in successfully
+2019-11-18 16:45:32,615 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-18 16:45:32,630 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardingJDBC.xlsx
+2019-11-18 16:45:32,630 - org.mortbay.log -INFO - xlsheet :SingleuserSingleAccess_ADD
+2019-11-18 16:45:34,110 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-18 16:45:34,141 - org.mortbay.log -INFO - browserName :firefox
+2019-11-18 16:45:35,641 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-18 16:45:35,682 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-18 16:45:58,955 - org.mortbay.log -INFO - url passed successfully :
+2019-11-18 16:46:04,265 - TestBase -INFO - Browser Lunch successfully and URL Passed
+2019-11-18 16:46:04,793 - TestBase -INFO - Authentication for :DP0881
+2019-11-18 16:46:30,534 - TestBase -INFO - Logged-in successfully
+2019-11-18 16:50:02,558 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-18 16:50:02,575 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardingJDBC.xlsx
+2019-11-18 16:50:02,575 - org.mortbay.log -INFO - xlsheet :SingleuserSingleAccess_ADD
+2019-11-18 16:50:03,645 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-18 16:50:03,648 - org.mortbay.log -INFO - browserName :firefox
+2019-11-18 16:50:04,852 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-18 16:50:04,891 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-18 16:50:28,054 - org.mortbay.log -INFO - url passed successfully :
+2019-11-18 16:50:46,079 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-18 16:50:46,088 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardingJDBC.xlsx
+2019-11-18 16:50:46,088 - org.mortbay.log -INFO - xlsheet :SingleuserSingleAccess_ADD
+2019-11-18 16:50:47,094 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-18 16:50:47,110 - org.mortbay.log -INFO - browserName :firefox
+2019-11-18 16:50:48,373 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-18 16:50:48,421 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-18 16:51:19,284 - org.mortbay.log -INFO - url passed successfully :
+2019-11-18 16:51:24,582 - TestBase -INFO - Browser Lunch successfully and URL Passed
+2019-11-18 16:51:25,045 - TestBase -INFO - Authentication for :DP0881
+2019-11-18 16:53:21,087 - TestBase -INFO - Logged-in successfully
+2019-11-18 17:06:11,587 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-18 17:06:11,594 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardingJDBC.xlsx
+2019-11-18 17:06:11,594 - org.mortbay.log -INFO - xlsheet :SingleuserSingleAccess_ADD
+2019-11-18 17:06:12,422 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-18 17:06:12,422 - org.mortbay.log -INFO - browserName :firefox
+2019-11-18 17:06:13,742 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-18 17:06:13,794 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-18 17:06:30,089 - org.mortbay.log -INFO - url passed successfully :
+2019-11-18 17:06:35,431 - TestBase -INFO - Browser Lunch successfully and URL Passed
+2019-11-18 17:06:35,955 - TestBase -INFO - Authentication for :DP0881
+2019-11-18 17:07:53,973 - TestBase -INFO - Logged-in successfully
+2019-11-18 17:14:00,344 - TestBase -INFO - waiting for :[[FirefoxDriver: firefox on WINDOWS (93c355ba-524c-40e0-8692-e1834ba8f889)] -> xpath: //input[starts-with(@id,'searchfield')]]for :30 seconds
+2019-11-18 17:14:00,403 - TestBase -INFO - element is visible now
+2019-11-18 17:14:12,744 - TestBase -INFO - waiting for :[[FirefoxDriver: firefox on WINDOWS (93c355ba-524c-40e0-8692-e1834ba8f889)] -> xpath: //span[text()='T-Number']//following::table[1]]for :30 seconds
+2019-11-18 17:14:12,824 - TestBase -INFO - element is clickable now
+2019-11-18 17:20:53,989 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-18 17:20:54,005 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardingJDBC.xlsx
+2019-11-18 17:20:54,005 - org.mortbay.log -INFO - xlsheet :SingleuserSingleAccess_ADD
+2019-11-18 17:20:55,489 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-18 17:20:55,490 - org.mortbay.log -INFO - browserName :firefox
+2019-11-18 17:20:56,975 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-18 17:20:57,011 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-18 17:21:11,098 - org.mortbay.log -INFO - url passed successfully :
+2019-11-18 17:21:16,443 - TestBase -INFO - Browser Lunch successfully and URL Passed
+2019-11-18 17:21:17,094 - TestBase -INFO - Authentication for :DP0881
+2019-11-18 17:22:30,168 - TestBase -INFO - Logged-in successfully
+2019-11-18 17:25:35,929 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-18 17:25:35,935 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardingJDBC.xlsx
+2019-11-18 17:25:35,935 - org.mortbay.log -INFO - xlsheet :SingleuserSingleAccess_ADD
+2019-11-18 17:25:36,794 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-18 17:25:36,794 - org.mortbay.log -INFO - browserName :firefox
+2019-11-18 17:25:38,201 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-18 17:25:38,239 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-18 17:26:04,072 - org.mortbay.log -INFO - url passed successfully :
+2019-11-18 17:26:09,357 - TestBase -INFO - Browser Lunch successfully and URL Passed
+2019-11-18 17:26:09,932 - TestBase -INFO - Authentication for :DP0881
+2019-11-18 17:27:22,386 - TestBase -INFO - Logged-in successfully
+2019-11-18 17:37:29,119 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-18 17:37:29,128 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardingJDBC.xlsx
+2019-11-18 17:37:29,128 - org.mortbay.log -INFO - xlsheet :SingleuserSingleAccess_ADD
+2019-11-18 17:37:30,175 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-18 17:37:30,175 - org.mortbay.log -INFO - browserName :firefox
+2019-11-18 17:37:31,963 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-18 17:37:32,018 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-18 17:37:47,991 - org.mortbay.log -INFO - url passed successfully :
+2019-11-18 17:37:53,312 - TestBase -INFO - Browser Lunch successfully and URL Passed
+2019-11-18 17:37:53,890 - TestBase -INFO - Authentication for :DP0881
+2019-11-18 17:38:54,443 - TestBase -INFO - Logged-in successfully
+2019-11-18 17:47:54,057 - TestBase -INFO - waiting for :[[FirefoxDriver: firefox on WINDOWS (3dc70afe-7ce4-4d4a-ac18-9a6414dbeecd)] -> xpath: //button[text()='Complete']]for :30 seconds
+2019-11-18 17:47:54,094 - TestBase -INFO - element is visible now
+2019-11-18 17:55:44,936 - TestBase -INFO - waiting for :[[FirefoxDriver: firefox on WINDOWS (3dc70afe-7ce4-4d4a-ac18-9a6414dbeecd)] -> xpath: //input[starts-with(@id,'searchfield')]]for :30 seconds
+2019-11-18 17:55:44,992 - TestBase -INFO - element is visible now
+2019-11-18 17:55:57,354 - TestBase -INFO - waiting for :[[FirefoxDriver: firefox on WINDOWS (3dc70afe-7ce4-4d4a-ac18-9a6414dbeecd)] -> xpath: //span[text()='T-Number']//following::table[1]]for :30 seconds
+2019-11-18 17:55:57,671 - TestBase -INFO - element is clickable now
+2019-11-18 18:04:45,285 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-18 18:04:45,301 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardingJDBC.xlsx
+2019-11-18 18:04:45,301 - org.mortbay.log -INFO - xlsheet :SingleuserSingleAccess_ADD
+2019-11-18 18:04:46,848 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-18 18:04:46,862 - org.mortbay.log -INFO - browserName :firefox
+2019-11-18 18:04:48,384 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-18 18:04:48,429 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-18 18:05:04,909 - org.mortbay.log -INFO - url passed successfully :
+2019-11-18 18:05:10,187 - TestBase -INFO - Browser Lunch successfully and URL Passed
+2019-11-18 18:05:10,697 - TestBase -INFO - Authentication for :DP0881
+2019-11-18 18:06:12,332 - TestBase -INFO - Logged-in successfully
+2019-11-18 19:12:17,754 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-18 19:12:17,772 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardingJDBC.xlsx
+2019-11-18 19:12:17,772 - org.mortbay.log -INFO - xlsheet :SingleuserSingleAccess_ADD
+2019-11-18 19:12:19,303 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-18 19:12:19,306 - org.mortbay.log -INFO - browserName :firefox
+2019-11-18 19:12:20,760 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-18 19:12:20,798 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-18 19:12:35,404 - org.mortbay.log -INFO - url passed successfully :
+2019-11-18 19:12:40,708 - TestBase -INFO - Browser Lunch successfully and URL Passed
+2019-11-18 19:12:41,268 - TestBase -INFO - Authentication for :DP0881
+2019-11-18 19:14:07,753 - TestBase -INFO - Logged-in successfully
+2019-11-19 13:21:22,216 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-19 13:21:22,225 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardingJDBC.xlsx
+2019-11-19 13:21:22,225 - org.mortbay.log -INFO - xlsheet :SingleuserSingleAccess_ADD
+2019-11-19 13:21:23,475 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-19 13:21:23,476 - org.mortbay.log -INFO - browserName :firefox
+2019-11-19 13:21:24,764 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-19 13:21:24,813 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-19 13:21:35,741 - org.mortbay.log -INFO - url passed successfully :
+2019-11-19 13:21:41,040 - TestBase -INFO - Browser Lunch successfully and URL Passed
+2019-11-19 13:21:41,655 - TestBase -INFO - Authentication for :DP0881
+2019-11-19 13:22:09,409 - TestBase -INFO - Logged-in successfully
+2019-11-19 13:28:24,166 - TestBase -INFO - waiting for :[[FirefoxDriver: firefox on WINDOWS (49b1e965-1f73-44b7-b1b8-fb6639250df1)] -> xpath: //button[text()='Complete']]for :30 seconds
+2019-11-19 13:28:24,224 - TestBase -INFO - element is visible now
+2019-11-19 13:34:07,327 - TestBase -INFO - waiting for :[[FirefoxDriver: firefox on WINDOWS (49b1e965-1f73-44b7-b1b8-fb6639250df1)] -> xpath: //input[starts-with(@id,'searchfield')]]for :30 seconds
+2019-11-19 13:34:07,387 - TestBase -INFO - element is visible now
+2019-11-19 13:34:19,662 - TestBase -INFO - waiting for :[[FirefoxDriver: firefox on WINDOWS (49b1e965-1f73-44b7-b1b8-fb6639250df1)] -> xpath: //span[text()='T-Number']//following::table[1]]for :30 seconds
+2019-11-19 13:34:19,744 - TestBase -INFO - element is clickable now
+2019-11-19 13:55:22,275 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-19 13:55:22,285 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardingJDBC.xlsx
+2019-11-19 13:55:22,285 - org.mortbay.log -INFO - xlsheet :SingleuserSingleAccess_REMOVE
+2019-11-19 13:55:23,363 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-19 13:55:23,376 - org.mortbay.log -INFO - browserName :firefox
+2019-11-19 13:55:25,408 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-19 13:55:25,597 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-19 13:55:36,136 - org.mortbay.log -INFO - url passed successfully :
+2019-11-19 13:55:41,494 - TestBase -INFO - Browser Lunch successfully and URL Passed
+2019-11-19 13:55:42,563 - TestBase -INFO - Authentication for :DP0881
+2019-11-19 13:56:10,344 - TestBase -INFO - Logged-in successfully
+2019-11-19 14:02:12,662 - TestBase -INFO - waiting for :[[FirefoxDriver: firefox on WINDOWS (2ac9d8c9-8b67-417b-9fa0-75ab51521061)] -> xpath: //button[text()='Complete']]for :30 seconds
+2019-11-19 14:02:12,755 - TestBase -INFO - element is visible now
+2019-11-19 14:07:50,094 - TestBase -INFO - waiting for :[[FirefoxDriver: firefox on WINDOWS (2ac9d8c9-8b67-417b-9fa0-75ab51521061)] -> xpath: //input[starts-with(@id,'searchfield')]]for :30 seconds
+2019-11-19 14:07:50,162 - TestBase -INFO - element is visible now
+2019-11-19 14:08:02,422 - TestBase -INFO - waiting for :[[FirefoxDriver: firefox on WINDOWS (2ac9d8c9-8b67-417b-9fa0-75ab51521061)] -> xpath: //span[text()='T-Number']//following::table[1]]for :30 seconds
+2019-11-19 14:08:02,497 - TestBase -INFO - element is clickable now
+2019-11-19 14:16:07,296 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-19 14:16:07,304 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardingJDBC.xlsx
+2019-11-19 14:16:07,304 - org.mortbay.log -INFO - xlsheet :SingleuserSingleAccess_DENY
+2019-11-19 14:16:08,195 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-19 14:16:08,195 - org.mortbay.log -INFO - browserName :firefox
+2019-11-19 14:16:09,570 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-19 14:16:09,614 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-19 14:16:19,830 - org.mortbay.log -INFO - url passed successfully :
+2019-11-19 14:16:25,201 - TestBase -INFO - Browser Lunch successfully and URL Passed
+2019-11-19 14:16:25,663 - TestBase -INFO - Authentication for :DP0881
+2019-11-19 14:16:53,795 - TestBase -INFO - Logged-in successfully
+2019-11-19 14:22:37,042 - TestBase -INFO - waiting for :[[FirefoxDriver: firefox on WINDOWS (0719569d-9c01-447b-be10-bc4a23f95fb8)] -> xpath: //button[contains(@id,'btnRejectApproval')]]for :30 seconds
+2019-11-19 14:22:37,088 - TestBase -INFO - element is visible now
+2019-11-19 14:22:46,634 - TestBase -INFO - waiting for :[[FirefoxDriver: firefox on WINDOWS (0719569d-9c01-447b-be10-bc4a23f95fb8)] -> xpath: //button[text()='Complete']]for :30 seconds
+2019-11-19 14:22:46,692 - TestBase -INFO - element is visible now
+2019-11-19 14:28:28,785 - TestBase -INFO - waiting for :[[FirefoxDriver: firefox on WINDOWS (0719569d-9c01-447b-be10-bc4a23f95fb8)] -> xpath: //input[starts-with(@id,'searchfield')]]for :30 seconds
+2019-11-19 14:28:28,822 - TestBase -INFO - element is visible now
+2019-11-19 14:28:41,150 - TestBase -INFO - waiting for :[[FirefoxDriver: firefox on WINDOWS (0719569d-9c01-447b-be10-bc4a23f95fb8)] -> xpath: //span[text()='T-Number']//following::table[1]]for :30 seconds
+2019-11-19 14:28:41,218 - TestBase -INFO - element is clickable now
+2019-11-19 14:58:49,288 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-19 14:58:49,298 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardingJDBC.xlsx
+2019-11-19 14:58:49,298 - org.mortbay.log -INFO - xlsheet :SingleuserMultipleAccess_ADD
+2019-11-19 14:58:50,282 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-19 14:58:50,282 - org.mortbay.log -INFO - browserName :firefox
+2019-11-19 14:59:57,374 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-19 14:59:57,381 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardingJDBC.xlsx
+2019-11-19 14:59:57,381 - org.mortbay.log -INFO - xlsheet :SingleuserMultipleAccess_ADD
+2019-11-19 14:59:58,881 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-19 14:59:58,894 - org.mortbay.log -INFO - browserName :firefox
+2019-11-19 15:00:00,610 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-19 15:00:00,646 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-19 15:00:10,477 - org.mortbay.log -INFO - url passed successfully :
+2019-11-19 15:00:15,764 - TestBase -INFO - Browser Lunch successfully and URL Passed
+2019-11-19 15:00:16,366 - TestBase -INFO - Authentication for :DP0881
+2019-11-19 15:00:45,482 - TestBase -INFO - Logged-in successfully
+2019-11-19 15:12:37,158 - TestBase -INFO - waiting for :[[FirefoxDriver: firefox on WINDOWS (cfd6479c-b511-4b18-82ef-931a606c168c)] -> xpath: //input[starts-with(@id,'searchfield')]]for :30 seconds
+2019-11-19 15:12:37,219 - TestBase -INFO - element is visible now
+2019-11-19 15:12:49,558 - TestBase -INFO - waiting for :[[FirefoxDriver: firefox on WINDOWS (cfd6479c-b511-4b18-82ef-931a606c168c)] -> xpath: //span[text()='T-Number']//following::table[1]]for :30 seconds
+2019-11-19 15:12:49,655 - TestBase -INFO - element is clickable now
+2019-11-19 15:18:30,373 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-19 15:18:30,383 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardingJDBC.xlsx
+2019-11-19 15:18:30,383 - org.mortbay.log -INFO - xlsheet :SingleuserMultipleAccess_Remove
+2019-11-19 15:18:31,310 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-19 15:18:31,310 - org.mortbay.log -INFO - browserName :firefox
+2019-11-19 15:18:32,451 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-19 15:18:32,488 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-19 15:18:46,510 - org.mortbay.log -INFO - url passed successfully :
+2019-11-19 15:18:51,802 - TestBase -INFO - Browser Lunch successfully and URL Passed
+2019-11-19 15:18:52,453 - TestBase -INFO - Authentication for :DP0881
+2019-11-19 15:19:29,309 - TestBase -INFO - Logged-in successfully
+2019-11-19 15:19:52,582 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-19 15:19:52,594 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardingJDBC.xlsx
+2019-11-19 15:19:52,594 - org.mortbay.log -INFO - xlsheet :SingleuserMultipleAccess_Remove
+2019-11-19 15:19:53,547 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-19 15:19:53,547 - org.mortbay.log -INFO - browserName :firefox
+2019-11-19 15:19:54,656 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-19 15:19:54,698 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-19 15:20:06,094 - org.mortbay.log -INFO - url passed successfully :
+2019-11-19 15:20:11,396 - TestBase -INFO - Browser Lunch successfully and URL Passed
+2019-11-19 15:20:11,884 - TestBase -INFO - Authentication for :DP0881
+2019-11-19 15:20:43,708 - TestBase -INFO - Logged-in successfully
+2019-11-19 15:26:03,990 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-19 15:26:03,997 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardingJDBC.xlsx
+2019-11-19 15:26:03,997 - org.mortbay.log -INFO - xlsheet :SingleuserMultipleAccess_Remove
+2019-11-19 15:26:04,966 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-19 15:26:04,966 - org.mortbay.log -INFO - browserName :firefox
+2019-11-19 15:26:06,262 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-19 15:26:06,296 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-19 15:26:20,156 - org.mortbay.log -INFO - url passed successfully :
+2019-11-19 15:26:25,471 - TestBase -INFO - Browser Lunch successfully and URL Passed
+2019-11-19 15:26:25,971 - TestBase -INFO - Authentication for :DP0881
+2019-11-19 15:27:05,683 - TestBase -INFO - Logged-in successfully
+2019-11-19 15:39:07,566 - TestBase -INFO - waiting for :[[FirefoxDriver: firefox on WINDOWS (81a4e64d-dcdf-4e2f-be6b-1523ca65db64)] -> xpath: //input[starts-with(@id,'searchfield')]]for :30 seconds
+2019-11-19 15:39:07,598 - TestBase -INFO - element is visible now
+2019-11-19 15:39:19,771 - TestBase -INFO - waiting for :[[FirefoxDriver: firefox on WINDOWS (81a4e64d-dcdf-4e2f-be6b-1523ca65db64)] -> xpath: //span[text()='T-Number']//following::table[1]]for :30 seconds
+2019-11-19 15:39:19,829 - TestBase -INFO - element is clickable now
+2019-11-19 16:35:17,779 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-19 16:35:17,792 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardingJDBC.xlsx
+2019-11-19 16:35:17,792 - org.mortbay.log -INFO - xlsheet :SingleuserMultipleAccess_DENY
+2019-11-19 16:35:18,921 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-19 16:35:18,937 - org.mortbay.log -INFO - browserName :firefox
+2019-11-19 16:35:20,233 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-19 16:35:20,284 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-19 16:35:31,271 - org.mortbay.log -INFO - url passed successfully :
+2019-11-19 16:35:36,592 - TestBase -INFO - Browser Lunch successfully and URL Passed
+2019-11-19 16:35:37,260 - TestBase -INFO - Authentication for :DP0881
+2019-11-19 16:36:24,729 - TestBase -INFO - Logged-in successfully
+2019-11-19 16:39:39,857 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-19 16:39:39,865 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardingJDBC.xlsx
+2019-11-19 16:39:39,865 - org.mortbay.log -INFO - xlsheet :SingleuserMultipleAccess_DENY
+2019-11-19 16:39:40,740 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-19 16:39:40,740 - org.mortbay.log -INFO - browserName :firefox
+2019-11-19 16:39:41,794 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-19 16:39:41,835 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-19 16:39:52,573 - org.mortbay.log -INFO - url passed successfully :
+2019-11-19 16:39:57,860 - TestBase -INFO - Browser Lunch successfully and URL Passed
+2019-11-19 16:39:58,303 - TestBase -INFO - Authentication for :DP0881
+2019-11-19 16:40:12,974 - TestBase -INFO - Login failed due to wrong password
+2019-11-19 16:40:45,471 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-19 16:40:45,476 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardingJDBC.xlsx
+2019-11-19 16:40:45,477 - org.mortbay.log -INFO - xlsheet :SingleuserMultipleAccess_DENY
+2019-11-19 16:40:46,367 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-19 16:40:46,367 - org.mortbay.log -INFO - browserName :firefox
+2019-11-19 16:40:47,414 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-19 16:40:47,442 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-19 16:40:59,611 - org.mortbay.log -INFO - url passed successfully :
+2019-11-19 16:41:04,890 - TestBase -INFO - Browser Lunch successfully and URL Passed
+2019-11-19 16:41:05,409 - TestBase -INFO - Authentication for :DP0881
+2019-11-19 16:41:20,191 - TestBase -INFO - Login failed due to wrong password
+2019-11-19 16:42:31,219 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-19 16:42:31,229 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardingJDBC.xlsx
+2019-11-19 16:42:31,229 - org.mortbay.log -INFO - xlsheet :SingleuserMultipleAccess_DENY
+2019-11-19 16:42:32,161 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-19 16:42:32,161 - org.mortbay.log -INFO - browserName :firefox
+2019-11-19 16:42:33,392 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-19 16:42:33,435 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-19 16:42:50,951 - org.mortbay.log -INFO - url passed successfully :
+2019-11-19 16:42:56,285 - TestBase -INFO - Browser Lunch successfully and URL Passed
+2019-11-19 16:42:56,902 - TestBase -INFO - Authentication for :DP0881
+2019-11-19 16:43:11,649 - TestBase -INFO - Login failed due to wrong password
+2019-11-19 16:47:50,544 - org.mortbay.log -INFO - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2019-11-19 16:47:50,548 - org.mortbay.log -INFO - excelsheetPath :C:\Automation Script\DataDrivenApplicationOnBoarding./exceldata/ApplicationOnBoardingJDBC.xlsx
+2019-11-19 16:47:50,548 - org.mortbay.log -INFO - xlsheet :SingleuserMultipleAccess_DENY
+2019-11-19 16:47:51,500 - org.mortbay.log -INFO - loginURL : https://aml-iamqa01.np-cloud-pg.com/identityiq/login.jsf
+2019-11-19 16:47:51,500 - org.mortbay.log -INFO - browserName :firefox
+2019-11-19 16:47:52,778 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.26.0 (since Mozilla Firefox 69 is installed in your machine)
+2019-11-19 16:47:52,817 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\aswani.mahakul\.m2\repository\webdriver\geckodriver\win64\0.26.0\geckodriver.exe
+2019-11-19 16:48:12,800 - org.mortbay.log -INFO - url passed successfully :
+2019-11-19 16:48:18,081 - TestBase -INFO - Browser Lunch successfully and URL Passed
+2019-11-19 16:48:18,639 - TestBase -INFO - Authentication for :DP0881
+2019-11-19 16:49:09,872 - TestBase -INFO - Logged-in successfully
